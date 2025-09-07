@@ -14,7 +14,8 @@ I'm passionate about *Data, Decision Intelligence & Analytics* and love working 
 - **Fun Fact:** I'm fascinated by how businesses make data-driven decisions and want to master it!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenishvekariya/) [![Instagram](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/devjenish/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jenishvekariya113@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jenishvekariya/) [![Instagram](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/devjenish/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jenishvekariya113@gmail.com) [![Website](https://img.shields.io/badge/Website-111111?logo=About.me&logoColor=white)](https://wdjenish.web.app/)
+
 
 # 💻 Tech Stack:
 ### Databases & Cloud  
